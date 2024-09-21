@@ -24,7 +24,7 @@ class Square extends Rectangle {
 	// 	return this.side*this.side
 	// }
 	getPerimeter(){
-		return 4*this.side;
+		return 4*this.width;
 	}
 }
 
